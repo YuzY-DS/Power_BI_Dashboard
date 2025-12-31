@@ -15,6 +15,8 @@ Cleaned, shaped, and prepared the raw data for analysis by handling blanks, chan
 ### Page 1: High-level Market View
 ![Dashboard Page 1](/images/Project1_page1.png)
 
+[View interactive dashboard here on the Power BI Service](https://shorturl.at/LPh6R)
+
 This is your mission controll for the data job market. It showcases key KPIs like totale job count, median salaries, and top job titles to give you a qucik understanding of what's happening in the job market and a glance.
 
 ### Page 2: Job Title Drill Through
