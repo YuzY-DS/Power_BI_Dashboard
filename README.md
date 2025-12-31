@@ -6,6 +6,9 @@ This is a dashboard wast created **Job Seekers, Job Transmitioners, and Job Swap
 information about the data job market is scatterd and hard to grasp. Using a *real-world dataset for 2024 data science job posting* (including title, salary and location) this project provide a single, easy-to-use interface to explore market trend and compensation.
 
 ## Skills showcased
+
+- **Data Transformation (ETL) with Power queries:** 
+Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
  
 ## Dashboard Overview
 
